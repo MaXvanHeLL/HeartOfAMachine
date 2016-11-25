@@ -9,7 +9,7 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
-*.xcworkspace
+*.uproject
 
 /Content/*
 !/Content/ThirdPersonBP
